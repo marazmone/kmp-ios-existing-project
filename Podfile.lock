@@ -1,0 +1,21 @@
+PODS:
+  - KmpAndroidExistingProjectShared (1.0.0)
+
+DEPENDENCIES:
+  - "KmpAndroidExistingProjectShared (from `git@github.com:marazmone/kmp-android-existing-project.git`)"
+
+EXTERNAL SOURCES:
+  KmpAndroidExistingProjectShared:
+    :git: "git@github.com:marazmone/kmp-android-existing-project.git"
+
+CHECKOUT OPTIONS:
+  KmpAndroidExistingProjectShared:
+    :commit: 7fe641398b2e2d1561632f728962e840034c9d7e
+    :git: "git@github.com:marazmone/kmp-android-existing-project.git"
+
+SPEC CHECKSUMS:
+  KmpAndroidExistingProjectShared: 459e28d585ef1ee76b495f2b14364317dfc88de8
+
+PODFILE CHECKSUM: 93e76593e8086b700d8acb277337006c7c11b610
+
+COCOAPODS: 1.12.1
